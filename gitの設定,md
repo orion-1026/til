@@ -1,0 +1,15 @@
+## gitの設定
+### gitではデータを保存する際、必ず保存した人の名前とEメールを記載する必要があるため設定する
+### git config --global user.name "your name"   ←   git config --global user.name "使用したい名前"
+#### ↑名前の設定
+### git config --global user.email "your@email.com"   ←   git config --global user.email "使いたいEメール"
+#### ↑Eメールの設定
+### メッセージを色分けする設定
+### git config --global color.ui true
+### これまでの設定が反映されているか確認する
+### git config -l
+### コマンドのヘルプを見る
+### git config --help
+### git help config
+#### ↑どちらでも良い
+#### viと同じように :q で終了することができる
