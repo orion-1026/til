@@ -7,7 +7,7 @@
 #### test   ←   記入したコメント
 ### git log --ooneline と記入すると一行で表示される
 #### 4b2f7ff test   ←   コミットにつくID　コメント
-### git log -p と乳に浴すると変更点が詳しく閲覧できる
+### git log -p と入力すると変更点が詳しく閲覧できる
 #### commit 4b2f7ff43e3e212ef404d71974b3252025c5ae9f   ←    コミットにつくID  
 #### Author: anpan <anpan@tst.com>   ←   コミットした人、連絡先
 #### Date:   Wed Jul 31 10:00:00 2019 +0900   ←   コミットした時刻
